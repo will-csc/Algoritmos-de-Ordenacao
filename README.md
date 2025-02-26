@@ -23,37 +23,19 @@ O repositório está organizado em diretórios correspondentes a cada linguagem 
 
 ```
 /
-|-- python/
-|   |-- binary_search.py
-|   |-- bubble_sort.py
-|   |-- insertion_sort.py
-|   |-- merge_sort.py
-|   |-- quick_sort.py
-|   |-- selection_sort.py
+|-- Binary Search/
 |
-|-- java/
-|   |-- BinarySearch.java
-|   |-- BubbleSort.java
-|   |-- InsertionSort.java
-|   |-- MergeSort.java
-|   |-- QuickSort.java
-|   |-- SelectionSort.java
+|-- Bubble Sort/
 |
-|-- rust/
-|   |-- binary_search.rs
-|   |-- bubble_sort.rs
-|   |-- insertion_sort.rs
-|   |-- merge_sort.rs
-|   |-- quick_sort.rs
-|   |-- selection_sort.rs
+|-- Insertion Sort/
 |
-|-- c/
-|   |-- binary_search.c
-|   |-- bubble_sort.c
-|   |-- insertion_sort.c
-|   |-- merge_sort.c
-|   |-- quick_sort.c
-|   |-- selection_sort.c
+|-- Merge Sort/
+|
+|-- Quick Sort/
+|
+|-- Selection Sort/
+|
+|-- Recursão/
 |
 |-- README.md
 |-- AlgorithmChoose.py
